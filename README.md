@@ -1,3 +1,7 @@
 # Pattern-Recognizing
 
-MFP's Homework of Pattern Recognizing and Machine Learning.  
+MFP's homework of Pattern Recognizing and Machine Learning.
+
+> Homework1: [PLA]()
+>
+> Homework2: [Linear Regression]()
